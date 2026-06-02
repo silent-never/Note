@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "继电保护/0-继电器.md",
+                "file": "继电保护/1-电流保护.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-继电器"
+              "title": "1-电流保护"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "继电保护/0-继电器.md",
+                "file": "继电保护/1-电流保护.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0-继电器 的大纲"
+              "title": "1-电流保护 的大纲"
             }
           },
           {
@@ -197,8 +197,9 @@
   "active": "ea56e14e69a1d62a",
   "lastOpenFiles": [
     "继电保护/0-绪论.md",
-    "继电保护/0-继电器.md",
     "继电保护/继电保护Readme.md",
+    "继电保护/1-电流保护.md",
+    "继电保护/0-继电器.md",
     "电力系统/3-稳态运行/未完成-二端口网络功率特性.md",
     "继电保护/未命名",
     "电力系统/1-电力系统元件/同步发电机/同步发电机-.md",
