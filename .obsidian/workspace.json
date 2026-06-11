@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "继电保护/8-母线保护/母线保护.md",
+                "file": "严师兄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "母线保护"
+              "title": "严师兄"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "593ea97cc4f3744a",
   "lastOpenFiles": [
-    "严师兄.md",
     "继电保护/8-母线保护/母线保护.md",
+    "严师兄.md",
     "继电保护/0-绪论/ps-互感器.md",
     "继电保护 Readme.md",
     "继电保护/5-变压器保护/变压器保护.md",
