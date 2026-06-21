@@ -37,20 +37,6 @@
             }
           },
           {
-            "id": "aa4506759d1e4dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电力系统/2-网络结构/星三角变换.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "星三角变换"
-            }
-          },
-          {
             "id": "05d6ada6c53a12fb",
             "type": "leaf",
             "state": {
@@ -65,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "86ccbef063c1feb8",
@@ -85,8 +71,23 @@
               "icon": "lucide-file",
               "title": "1.2.3-同步发电机各电势"
             }
+          },
+          {
+            "id": "aa4506759d1e4dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电力系统/2-网络结构/星三角变换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "星三角变换"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,8 +261,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa4506759d1e4dc9",
+  "active": "0c2d4d6fc29b0cc7",
   "lastOpenFiles": [
+    "电力系统/2-网络结构/星三角变换.md",
     "电力系统/4-稳定分析/4.5-电力系统的电磁功率特性.md",
     "电力系统/0-数学工具/Latex 语法.md",
     "电力系统/3-稳态分析/3.1-简单网络/3.1.5-单端供电系统的功率特性.md",
@@ -296,7 +298,6 @@
     "电力系统/3-稳态分析/3.0-图片/功率圆图.png",
     "电力系统/3-稳态分析/3.0-图片/二端口网络.png",
     "电力系统/3-稳态分析/3.1-简单网络/3.1.7-环网的潮流控制.md",
-    "电力系统/3-稳态分析/3.4-牛顿-拉夫逊潮流计算.md",
     "电力系统/3-稳态分析/3.0-图片/含两个变压器的简单环网.png",
     "电力系统/3-稳态分析/3.0-图片/无功平衡确定电压.png",
     "Pasted image 20260620160909.png",
