@@ -35,8 +35,7 @@
               "title": "3.7-电网经济运行"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a39bb8bb5b9c5ea1",
+  "active": "2cf34d3beb8474ad",
   "lastOpenFiles": [
-    "电力系统/4-稳定分析/4.1-稳定与失稳.md",
     "电力系统/3-稳态分析/3.7-电网经济运行.md",
+    "电力系统/4-稳定分析/4.1-稳定与失稳.md",
     "电力系统/0-数学工具/Latex 语法.md",
     "电力系统/3-稳态分析/3.6-有功平衡和频率调整.md",
     "电力系统/3-稳态分析/3.2-电力系统负荷.md",
