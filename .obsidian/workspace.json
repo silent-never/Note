@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "4ee5476452fceadb",
@@ -211,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5a36e72f8321fb",
+  "active": "e51d80fb86cf4b12",
   "lastOpenFiles": [
     "电力系统/3-稳态分析/3.4-牛顿-拉夫逊潮流计算.md",
     "电力系统/6-潮流计算/病态潮流/概况.md",
