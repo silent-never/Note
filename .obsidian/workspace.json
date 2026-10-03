@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "整车设计报告"
             }
+          },
+          {
+            "id": "f7269e0f425a8c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "商业&成本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "商业&成本"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,10 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e311610691519bda",
+  "active": "f7269e0f425a8c9b",
   "lastOpenFiles": [
-    "冷却系统要求：.md",
     "整车设计报告.md",
+    "商业&成本.md",
+    "冷却系统要求：.md",
     "华南理工大学电气保研面试真题：逐题回答.md",
     "靳雨辰-工院推免复试英语口语与材料准备-v1.md",
     "华南理工电气保研文献翻译：NO.1–NO.20 中英逐句对照.md",
@@ -267,7 +282,6 @@
     "继电保护/3-纵联保护/3.0-纵联保护的通信通道.md",
     "继电保护/2-距离保护/2.5-电压测量断线.md",
     "继电保护/2-距离保护/2.4-振荡闭锁.md",
-    "继电保护/2-距离保护/2.3-短路点过渡电阻.md",
     "电力系统/0-数学工具/0-图片/Park变换坐标示意图.png",
     "方程式赛车",
     "实习/东莞",
