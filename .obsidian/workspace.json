@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "商业&成本.md",
+                "file": "电力系统/5-故障分析/5.1-正序等效定则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "商业&成本"
+              "title": "5.1-正序等效定则"
             }
           }
         ],
@@ -256,8 +256,8 @@
   },
   "active": "f7269e0f425a8c9b",
   "lastOpenFiles": [
-    "整车设计报告.md",
     "商业&成本.md",
+    "整车设计报告.md",
     "冷却系统要求：.md",
     "华南理工大学电气保研面试真题：逐题回答.md",
     "靳雨辰-工院推免复试英语口语与材料准备-v1.md",
