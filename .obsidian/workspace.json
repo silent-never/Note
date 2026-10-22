@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "车主.md",
+                "file": "商业&成本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "车主"
+              "title": "商业&成本"
             }
           }
         ],
@@ -270,8 +270,8 @@
   },
   "active": "69654a8b2851f572",
   "lastOpenFiles": [
-    "综述答辩.md",
     "车主.md",
+    "综述答辩.md",
     "电力系统/0-数学工具/0.3-数值积分方法.md",
     "整车设计报告.md",
     "电力系统/0-数学工具/0.2-李雅普诺夫稳定性.md",
