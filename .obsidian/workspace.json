@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formax/综述答辩.md",
+                "file": "Formax/EF26电车设计答辩评审提问手册.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "综述答辩"
+              "title": "EF26电车设计答辩评审提问手册"
             }
           }
         ],
@@ -284,6 +284,8 @@
   },
   "active": "42a0bccf5fb2a913",
   "lastOpenFiles": [
+    "Formax/综述答辩.md",
+    "Formax/EF26电车设计答辩评审提问手册.md",
     "Formax/整车设计报告.md",
     "Formax/中汽薪芒.md",
     "Pasted image 20261023174740.png",
@@ -291,7 +293,6 @@
     "Formax/车主.md",
     "Formax/商业&成本.md",
     "Formax/冷却系统要求：.md",
-    "Formax/综述答辩.md",
     "电力系统/0-数学工具/0.3-数值积分方法.md",
     "电力系统/0-数学工具/0.2-李雅普诺夫稳定性.md",
     "电力系统/0-数学工具/0.1-标幺制.md",
