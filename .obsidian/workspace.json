@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formax/EF26低压电气答辩提问与预回答.md",
+                "file": "2026电车机械检查对照表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EF26低压电气答辩提问与预回答"
+              "title": "2026电车机械检查对照表"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#6；2026",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,10 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42a0bccf5fb2a913",
+  "active": "2b16aca2bd666676",
   "lastOpenFiles": [
-    "Formax/EF26电车设计答辩评审提问手册.md",
     "Formax/EF26低压电气答辩提问与预回答.md",
+    "2026电车机械检查对照表.md",
+    "Formax/EF26电车设计答辩评审提问手册.md",
     "Pasted image 20261023174740.png",
     "Formax/车主.md",
     "Formax/综述答辩.md",
