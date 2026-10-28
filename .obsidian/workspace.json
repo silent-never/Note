@@ -90,8 +90,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b16aca2bd666676",
+  "active": "42a0bccf5fb2a913",
   "lastOpenFiles": [
-    "Formax/EF26低压电气答辩提问与预回答.md",
     "2026电车机械检查对照表.md",
+    "Formax/EF26低压电气答辩提问与预回答.md",
     "Formax/EF26电车设计答辩评审提问手册.md",
     "Pasted image 20261023174740.png",
     "Formax/车主.md",
