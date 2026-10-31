@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "新车发布会.md",
+                "file": "Formax/车主.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "新车发布会"
+              "title": "车主"
             }
           },
           {
@@ -228,18 +228,18 @@
   },
   "active": "441c0a40e27dbf50",
   "lastOpenFiles": [
-    "2026电车机械检查对照表.md",
-    "新车发布会.md",
-    "Formax/EF26低压电气答辩提问与预回答.md",
-    "Formax/EF26电车设计答辩评审提问手册.md",
-    "Pasted image 20261023174740.png",
-    "Formax/车主.md",
-    "Formax/综述答辩.md",
     "Formax/整车设计报告.md",
     "Formax/中汽薪芒.md",
-    "Formax",
-    "Formax/商业&成本.md",
     "Formax/冷却系统要求：.md",
+    "Formax/综述答辩.md",
+    "Formax/商业&成本.md",
+    "Formax/车主.md",
+    "2026电车机械检查对照表.md",
+    "新车发布会.md",
+    "Formax/EF26电车设计答辩评审提问手册.md",
+    "Formax/EF26低压电气答辩提问与预回答.md",
+    "Pasted image 20261023174740.png",
+    "Formax",
     "电力系统/0-数学工具/0.3-数值积分方法.md",
     "电力系统/0-数学工具/0.2-李雅普诺夫稳定性.md",
     "电力系统/0-数学工具/0.1-标幺制.md",
