@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formax/团队管理.md",
+                "file": "赛前分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "团队管理"
+              "title": "赛前分析"
             }
           }
         ],
@@ -256,12 +256,12 @@
   },
   "active": "ad6573f624fae1c1",
   "lastOpenFiles": [
+    "Formax/团队管理.md",
     "赛前分析.md",
     "Formax/整车设计报告.md",
     "Formax/综述答辩.md",
     "Formax/中汽薪芒.md",
     "Formax/新车发布会.md",
-    "Formax/团队管理.md",
     "Formax/设计展板.md",
     "Formax/商业&成本.md",
     "Formax/冷却系统要求：.md",
