@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EF26_团队及项目管理_答辩打印版.md",
+                "file": "Formax/团队管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EF26_团队及项目管理_答辩打印版"
+              "title": "团队管理"
             }
           }
         ],
@@ -256,8 +256,8 @@
   },
   "active": "ad6573f624fae1c1",
   "lastOpenFiles": [
-    "赛前分析.md",
     "EF26_团队及项目管理_答辩打印版.md",
+    "赛前分析.md",
     "Formax/团队管理.md",
     "Formax/整车设计报告.md",
     "Formax/综述答辩.md",
